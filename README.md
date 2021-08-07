@@ -1,1 +1,1 @@
-# aim-games
+# AIM Game
